@@ -35,4 +35,4 @@ client.on("guildMemberAdd", member => {
   }});
   });
 
-client.login("ODY2NzkzMDE4NjQ0NjI3NTI3.YPXt5w.rpU37I0d5j8hO9PplIxHmIDqcak");
+client.login("ODY2NzkzMDE4NjQ0NjI3NTI3.YPXt5w.rpU37I0d5j8hO9PplIxHmIDqcak"); // e deleted so dont waste ur time lol, discord noticed my token got in internet and resetted it
