@@ -1,3 +1,5 @@
+codded on night so forgive me if code is shit
+
 # INSTALLATION
 
 m install node.js
