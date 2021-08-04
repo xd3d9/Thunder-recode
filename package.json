@@ -1,0 +1,22 @@
+{
+  "name": "thunder",
+  "version": "1.0.0",
+  "description": "shitty bot's recode created by skid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amogus"
+  ],
+  "author": "ZeroTwo (original: Euphoria23)",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^4.1.1",
+    "colors": "^1.4.0",
+    "fs": "*",
+    "moment": "^2.29.1",
+    "ping": "^0.4.1"
+  }
+}
